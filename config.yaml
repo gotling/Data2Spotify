@@ -1,0 +1,14 @@
+name: "Data 2 Spotify"
+description: "Push data to spotify playlists"
+version: "1.7.0"
+slug: "data2spotify"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: services
+
+
