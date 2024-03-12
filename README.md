@@ -44,6 +44,9 @@ https://pypi.org/project/requests/
 ### dateparser
 https://pypi.org/project/dateparser/
 
+### pillow
+https://pypi.org/project/pillow/
+
 ### schedule
 https://schedule.readthedocs.io/
 
