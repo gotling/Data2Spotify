@@ -1,7 +1,9 @@
 # Data 2 Spotify
 Pulls data from PostNords API for showing which day post is delivered and updates a Spotify playlist with image of the data. Scheduled to run once at night every day.
 
-Project is a valid [Home Assistant add-on](https://www.home-assistant.io/addons/) and can be installed by copying code to *addons/* in your Home Assistant server and installing it from the interface.
+Project is a valid [Home Assistant add-on](https://www.home-assistant.io/addons/) and can be installed by copying code to *addons/* in your Home Assistant server and installing it from the interface. This helps with having the service running continuously.
+
+![Example image](example.jpg)
 
 # Getting started
 First time running must be interactive to authenticate user with Spotify. A web browser will open where you login.
