@@ -3,7 +3,7 @@ Pulls data from PostNords API for showing which day post is delivered and update
 
 Project is a valid [Home Assistant add-on](https://www.home-assistant.io/addons/) and can be installed by copying code to *addons/* in your Home Assistant server and installing it from the interface. This helps with having the service running continuously.
 
-![Example image](example.jpg)
+![Example image](https://raw.githubusercontent.com/gotling/Data2Spotify/main/example.jpg)
 
 # Getting started
 First time running must be interactive to authenticate user with Spotify. A web browser will open where you login.
