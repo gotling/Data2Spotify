@@ -3,7 +3,10 @@ Pulls data from PostNords API for showing which day post is delivered and update
 
 Project is a valid [Home Assistant add-on](https://www.home-assistant.io/addons/) and can be installed by copying code to *addons/* in your Home Assistant server and installing it from the interface. This helps with having the service running continuously.
 
-![Example image](https://raw.githubusercontent.com/gotling/Data2Spotify/main/example.jpg)
+![Screenshot of Spotify](https://raw.githubusercontent.com/gotling/Data2Spotify/main/screenshot.jpg)
+
+# Why this project exists?
+When driving or coming home I sometimes want to have some basic data available to know if I should check the mailbox or connect the car for charging. Spotify is easily accessable from the cars display so it seemed like a good place to put data.
 
 # Getting started
 First time running must be interactive to authenticate user with Spotify. A web browser will open where you login.
